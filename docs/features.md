@@ -1,9 +1,15 @@
 # Features
 
-Main: Infinite Jump, No Fog, Full Bright, Remove Jitter, ESP, Debug Mode, RakNet Desync (gated).
+## Main
+- Infinite Jump, No Fog, Full Bright, Remove Jitter
+- Network Diagnostics (ping / place — read-only)
+- ESP (max distance slider)
+- Debug Mode
 
-Parry: Auto Parry, Auto Dash, Ball Tracker + sliders.
+## Parry
+- Auto Parry, Auto Dash, Ball Tracker
+- Configurable distance, reaction, prediction, speeds
 
-Themes: Lavender, Purple, Violet, White, Black.
-
-FFlag: JSON validation UI only — no setfflag.
+## FFlag
+- JSON validation UI only — no setfflag
+- Presets, import/export, rejoin
